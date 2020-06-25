@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushToGit", "PushToGit\PushToGit.csproj", "{21F978CE-EB1B-4153-8F79-CCB3831BA17E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21F978CE-EB1B-4153-8F79-CCB3831BA17E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21F978CE-EB1B-4153-8F79-CCB3831BA17E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21F978CE-EB1B-4153-8F79-CCB3831BA17E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21F978CE-EB1B-4153-8F79-CCB3831BA17E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE1D432-2498-403F-8EF3-5301BC327319}
+	EndGlobalSection
+EndGlobal

@@ -14,6 +14,7 @@ namespace PushToGit
             Console.WriteLine("HIhi");
             Console.WriteLine("hdwad");
             Console.WriteLine("CCCC");
+            Console.WriteLine("safdgfdfhgdsfg");
         }
     }
 }

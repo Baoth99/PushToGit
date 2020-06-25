@@ -11,6 +11,7 @@ namespace PushToGit
         static void Main(string[] args)
         {
             Console.WriteLine("SQL");
+            Console.WriteLine("HIhi");
 
         }
     }
